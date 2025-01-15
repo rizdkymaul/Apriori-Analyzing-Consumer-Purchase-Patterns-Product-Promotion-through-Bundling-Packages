@@ -1,0 +1,23 @@
+Library yang perlu diinstall
+1.flask
+2. mlxtend
+3. pandas
+4. numpy
+5. xlrd
+6. xhtml2pdf
+7. openpyxl
+
+!Procesing data hanya dapat digunakan untuk dataset dengan kolom tanggal dan produk
+!Jika dataframe hasil pengolahan data kosong maka akan muncul warning di kiri atas berwarna merah
+!Jika dataset yang di upload sudah tersimpan dengan nama yang sama dalam storage maka akan di timpa. Semua file yang terupload tersimpan di folder dataset
+!Input Periode di web harus sesuai dengan Waktu tanggal yang ada di dalam dataset!
+
+Cara menjalankan server :
+Harus terinstal Python
+
+lalu buka terminal dan masukan perintah berikut (sesuai urutan) :
+
+1. pip install -r requirements.txt -v
+2. python -m venv myenv
+3. myenv\Scripts\activate
+4. flask --app server run
