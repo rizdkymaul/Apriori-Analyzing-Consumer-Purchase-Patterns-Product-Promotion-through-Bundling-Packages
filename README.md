@@ -7,6 +7,8 @@ Based on the research conducted using data mining techniques to discover associa
 
 • Web Application Implementation: The deployment of the Apriori algorithm via a web application developed using python and flask framework facilitates user access to and utilization of the model for identifying consumer purchase patterns.
 
+I apologize, but due to company confidentiality regarding the website implementation, I am unable to share that information here. If you have any questions, please feel free to contact me directly. 😊
+
 ![alt text](https://github.com/rizdkymaul/Apriori-Analyzing-Consumer-Purchase-Patterns-Product-Promotion-through-Bundling-Packages/blob/main/static/images/tampilan_utama_website.png?raw=true)
 
 # Required Libraries for Installation
